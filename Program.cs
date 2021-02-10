@@ -6,7 +6,7 @@ namespace Assignment01B
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! - Ruhi Shetye CISS -  233");
+            Console.WriteLine("Hello World! - my name is Ruhi!");
         }
     }
 }
